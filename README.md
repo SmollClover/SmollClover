@@ -15,9 +15,9 @@
 <h2 align="center">My Setup 💻</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Nobara%2039-000000?style=for-the-badge&logoColor=FBF0DF&label=Linux&labelColor=181825" />
-    <img src="https://img.shields.io/badge/Core%20i7%209700-0068B5?style=for-the-badge&logoColor=FBF0DF&label=Intel&labelColor=181825" />
+    <img src="https://img.shields.io/badge/Intel%20Core%20i7%209700-0068B5?style=for-the-badge&logoColor=FBF0DF&label=CPU&labelColor=181825" />
     <img src="https://img.shields.io/badge/32%20GB-0068B5?style=for-the-badge&logoColor=FBF0DF&label=RAM&labelColor=181825" />
-    <img src="https://img.shields.io/badge/Radeon%20RX%206750%20XT-ED1C24?style=for-the-badge&logoColor=FBF0DF&label=AMD&labelColor=181825" />
+    <img src="https://img.shields.io/badge/AMD%20Radeon%20RX%206750%20XT-ED1C24?style=for-the-badge&logoColor=FBF0DF&label=GPU&labelColor=181825" />
 </p>
 
 <h2 align="center">My Stats 📊</h2>
