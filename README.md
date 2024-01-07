@@ -2,14 +2,11 @@
 
 <h2 align="center">My Tools 🔧</h2>
 <p align="center">
-    <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+    <a href="https://vscodium.com/" target="_blank"><img alt="VSCodium" src="https://img.shields.io/badge/VSCodium-3578C8?style=for-the-badge&logo=vscodium&logoColor=white" /></a>
     <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-    <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+    <a href="https://bun.sh/" target="_blank"><img alt="Bun" src="https://img.shields.io/badge/Bun-14151A?style=for-the-badge&logo=bun&logoColor=FBF0DF" /></a>
     <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-    <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-    <a href="https://vercel.com/" target="_blank"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
     <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
     <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.spotify.com/" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
@@ -17,10 +14,10 @@
 
 <h2 align="center">My Setup 💻</h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Nobara-000000?style=for-the-badge&logo=fedora&logoColor=white" />
-    <img src="https://img.shields.io/badge/intel-core%20i7%209700-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-    <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/nvidia-rtx%202070%20SUPER-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nobara%2039-000000?style=for-the-badge&logoColor=FBF0DF&label=Linux&labelColor=181825" />
+    <img src="https://img.shields.io/badge/Core%20i7%209700-0068B5?style=for-the-badge&logoColor=FBF0DF&label=Intel&labelColor=181825" />
+    <img src="https://img.shields.io/badge/32%20GB-0068B5?style=for-the-badge&logoColor=FBF0DF&label=RAM&labelColor=181825" />
+    <img src="https://img.shields.io/badge/Radeon%20RX%206750%20XT-ED1C24?style=for-the-badge&logoColor=FBF0DF&label=AMD&labelColor=181825" />
 </p>
 
 <h2 align="center">My Stats 📊</h2>
