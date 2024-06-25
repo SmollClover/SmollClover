@@ -22,6 +22,6 @@
 
 <h2 align="center">My Stats 📊</h2>
 <p align="center">
-  <a href="https://github.com/SmollClover"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SmollClover&show_icons=true&count_private=true&theme=dracula" width="350"></a>
-  <a href="https://github.com/SmollClover"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmollClover&layout=compact&theme=dracula" width="350"></a>
+  <a href="https://github.com/SmollClover"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SmollClover&show_icons=true&count_private=true&hide_border=true&theme=synthwave"></a>
+  <a href="https://github.com/SmollClover"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmollClover&layout=normal&hide_border=true&theme=synthwave"></a>
 </p>
